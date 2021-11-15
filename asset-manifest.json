@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ea0f70df.chunk.js",
+    "main.js.map": "/static/js/main.ea0f70df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ac283672.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ac283672.js.map",
+    "static/js/2.507b8574.chunk.js": "/static/js/2.507b8574.chunk.js",
+    "static/js/2.507b8574.chunk.js.map": "/static/js/2.507b8574.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.507b8574.chunk.js.LICENSE.txt": "/static/js/2.507b8574.chunk.js.LICENSE.txt",
+    "static/media/Felipe_perfil.14ee22e2.jpg": "/static/media/Felipe_perfil.14ee22e2.jpg",
+    "static/media/blog1.aa2f074c.svg": "/static/media/blog1.aa2f074c.svg",
+    "static/media/blog2.df7996bd.svg": "/static/media/blog2.df7996bd.svg",
+    "static/media/blog3.969725e8.svg": "/static/media/blog3.969725e8.svg",
+    "static/media/blog4.60aa6cec.svg": "/static/media/blog4.60aa6cec.svg",
+    "static/media/filme.64e9d3fd.png": "/static/media/filme.64e9d3fd.png",
+    "static/media/playgrond.9a677ef8.png": "/static/media/playgrond.9a677ef8.png",
+    "static/media/todo.21b67644.png": "/static/media/todo.21b67644.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac283672.js",
+    "static/js/2.507b8574.chunk.js",
+    "static/js/main.ea0f70df.chunk.js"
+  ]
+}
